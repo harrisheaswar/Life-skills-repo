@@ -1,3 +1,5 @@
+# Tiny habits
+
 ### In this video, what was the most interesting story or idea for you?
 
 Fogg's personal experience of changing his behavior by tying small habits to existing routines resonated with me.
