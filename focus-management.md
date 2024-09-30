@@ -2,25 +2,25 @@
 
 ### What is Deep Work?
 
-The ability to focus on work and avoid any kind of distraction.
+The ability to focus on work and avoid any distractions.
 
-### According to author how to do deep work properly, in a few points?
+### According to the author how to do deep work properly, in a few points?
 
 - Schedule distraction breaks.
 - Follow a deep work ritual.
 - Follow an evening shutdown ritual.
 - Get adequete sleep.
 
-### How can you implement the principles in your day to day life?
+### How can you implement the principles in your day-to-day life?
 
 - Getting enough sleep.
 - Keeping a note of when I can take distraction breaks.
-- Trying to create a cycle of consistent efforts to focus over a period of time.
+- Try to create a cycle of consistent efforts to focus over some time.
 
 ### What are the dangers of social media, in brief?
 
-- It can harm professional success as they are addictive.
+- It can harm professional success due to its addictive nature.
 - Reduces capacity to concentrate.
-- Psychological harms like feeling inadequete.
+- Psychological harms like feeling inadequate.
 - A feeling of loneliness.
 - Anxiety disorders.
